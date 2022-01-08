@@ -1,4 +1,11 @@
+#local folders and file
 src/main/resources/application.properties
+src/main/java/com/gokul/kambackend/config/AuthenticationConfigConstants.java
+
+
+
+
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
