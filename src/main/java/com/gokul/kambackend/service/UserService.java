@@ -1,7 +1,7 @@
 package com.gokul.kambackend.service;
 
 
-import com.gokul.kambackend.Repository.UserRepository;
+import com.gokul.kambackend.repository.UserRepository;
 import com.gokul.kambackend.model.AppUser;
 import com.gokul.kambackend.model.request.CreateUseRequest;
 import lombok.RequiredArgsConstructor;

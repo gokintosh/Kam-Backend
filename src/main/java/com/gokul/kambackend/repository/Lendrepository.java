@@ -1,4 +1,4 @@
-package com.gokul.kambackend.Repository;
+package com.gokul.kambackend.repository;
 
 import com.gokul.kambackend.model.Book;
 import com.gokul.kambackend.model.Lend;

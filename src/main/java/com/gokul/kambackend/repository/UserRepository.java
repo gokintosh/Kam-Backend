@@ -1,4 +1,4 @@
-package com.gokul.kambackend.Repository;
+package com.gokul.kambackend.repository;
 
 import com.gokul.kambackend.model.AppUser;
 import org.springframework.data.mongodb.repository.MongoRepository;
